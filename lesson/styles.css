@@ -1,0 +1,18 @@
+h1 {
+    background: red;
+    font-size: 48px;
+}
+.paragraph-1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+.fat {
+    font-weight: bold;
+    display: block;
+}
+.paragraph-2 {
+    border: blue dotted 5px;
+    margin-top: 100px;
+    padding: 50px;
+    /* margin: 50px; */
+    border-radius: 50px;
+}
